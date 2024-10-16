@@ -1,6 +1,6 @@
 print("Which of the following calculations would you like to perform?")
 print("1- Basic Arithmetic Operation")
-print("2- Converter")
+print("2- Distance Converter")
 print("3- Currency Converter")
 print("4- Number Converter")
 print("5- Weight Converter")
